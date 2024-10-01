@@ -2,7 +2,6 @@
 
 A Simple Web application to store and manage your passwords
 
-Here's a video demonstrating the application: [Google Drive Link](https://drive.google.com/file/d/1vt8cV7BmZFk1bs7Ig_BGtygzTTRNVQm5/view?usp=sharing)
 
 ## Screenshots
 
@@ -56,9 +55,3 @@ Here's a video demonstrating the application: [Google Drive Link](https://drive.
 - Handling requests at the backend
 - Database connectivity
 - Sending data from the backend to the frontend
-
-## Socials
-
-🐦 Twitter - [@HMohammedB_](https://twitter.com/HMohammedB_)
-
-📧 Email - hanifmohammed869@gmail.com
